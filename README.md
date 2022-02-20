@@ -1,9 +1,9 @@
-# Hello World
+# Hello World 🌎
 
-## Welcome To My Github
-
-👋 Hi, I’m @Mohammad-Faraaz
+## Welcome To My Github 👋
 ![MFZ](https://avatars.githubusercontent.com/u/99980867?v=4)
+<h1>Hi, I'm Mohammad Faraaz</h1>
+
 
 ## 👀 I’m interested in
 - Webdev
@@ -21,3 +21,5 @@
 Mohammad-Faraaz/Mohammad-Faraaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
