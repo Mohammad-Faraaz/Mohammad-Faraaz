@@ -17,10 +17,6 @@
 ![Machine Learning](https://www.smartdatacollective.com/wp-content/uploads/2021/06/machine-learning-helps-life-insurance-scaled.jpg)
 
 
-
-I need to highlight these ==very important words==.
-
-
 <!---
 Mohammad-Faraaz/Mohammad-Faraaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
